@@ -1,2 +1,2 @@
 # NeuralNetwork-RecognizeHandwriting
-A basic neural network is used to recognize handwriting
+A basic neural network is used to recognize handwriting number
